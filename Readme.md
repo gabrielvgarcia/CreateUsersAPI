@@ -17,7 +17,7 @@ Como executar o projeto
 -----------------------
 
 1. Clone o repositório
-   git clone https://github.com/seu-usuario/createusersapi.git
+   git clone https://github.com/gabrielvgarcia/createusersapi.git
    cd createusersapi
 
 2. Instale as dependências
